@@ -1,4 +1,4 @@
-# `gevent_psycopg2`
+# gevent_psycopg2
 
 This is just a Python package containing code from Daniele Varrazzo's
 [psycogreen][].
