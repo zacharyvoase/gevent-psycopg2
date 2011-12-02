@@ -1,4 +1,4 @@
-# gevent_psycopg2
+# gevent-psycopg2
 
 This is just a Python package containing code from Daniele Varrazzo's
 [psycogreen][].
@@ -8,7 +8,7 @@ This is just a Python package containing code from Daniele Varrazzo's
 
 ## Installation
 
-    pip install gevent_psycopg2
+    pip install gevent-psycopg2
 
 
 ## Usage
