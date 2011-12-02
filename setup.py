@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gevent-psycopg2',
-    version='0.0.1',
+    version='0.0.2',
     description='pip-installable package for patching psycopg2 to use gevent',
     author='Zachary Voase',
     author_email='z@dvxhouse.com',
