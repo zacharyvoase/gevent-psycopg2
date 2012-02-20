@@ -7,7 +7,7 @@ Usage:
     >>> gevent_psycopg2.monkey_patch()
 """
 
-## Original code licensed as follows:
+## Original code licensed as follows:
 #
 # Copyright (C) 2010 Daniele Varrazzo <daniele.varrazzo@gmail.com>
 # and licensed under the MIT license:
